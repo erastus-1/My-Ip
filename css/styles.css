@@ -24,6 +24,7 @@
             width: 500px;
             height: 750px;
             float: right;
+            border-radius: 10px;
            } 
         .side-bar{
                   float: left;
@@ -33,5 +34,8 @@
         a {
            text-decoration: none;
           } 
+        .important {
+                    font-family: serif;
+        }
 
 }
