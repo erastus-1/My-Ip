@@ -4,7 +4,7 @@
               color: white;
              }
         h1 {
-            color: darkblue;
+            color: brown;
             font-weight: bolder;
             text-align: center;
            }
@@ -12,16 +12,26 @@
 @media screen and (min-width:720px){
 
        body {
-             background-color: lightgray;
+             background-color: burlywood;
              color: black;
+             font-family: sans-serif;
             }
        h2 { 
-           text-align: center;    
+           text-align: center;  
+           color: blue;  
           }
        img {
             width: 500px;
-            height: 900px;
+            height: 750px;
             float: right;
-            border-color: lightblue;
-       }
+           } 
+        .side-bar{
+                  float: left;
+                  font-style: italic;
+                  font-family: monospace;
+                 }
+        a {
+           text-decoration: none;
+          } 
+
 }
