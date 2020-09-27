@@ -27,5 +27,5 @@
 ### License
     https://opensource.org/licenses/MIT) 
 
-COPYRIGHT (C) 2020KARIUKI ERASTUS
+copyright (C) 2020kariuki erastus
 
