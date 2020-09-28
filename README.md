@@ -1,6 +1,6 @@
 # MY IP
 
-#### This a project about myself which contains
+#### This is a project about myself which contains:
      1. Education background.
      2. Previous work experience.
      3. My i chose software development.
@@ -13,7 +13,7 @@
 ## Setup/Installation Requirements
      ###Requirements
 1. Git if you are using windows. 
-2. Download a code editor e.g Vs code, Atom e.t.c. 
+2. Download a code editor e.g Vs code, Atom, Sublime, e.t.c. 
 
       ###Set-up 
 
@@ -27,5 +27,5 @@
 ### License
     https://opensource.org/licenses/MIT) 
 
-copyright (C) 2020kariuki erastus
+copyright (C) 2020 kariuki erastus
 
